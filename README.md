@@ -1,5 +1,4 @@
 Level 1
-///////////////////////////////////////
 Question 1:
 Create an object called cat.
 
@@ -46,7 +45,6 @@ Call the function and pass in the cats array as the argument.
 
 Assign the return value of the function to the innerHTML property of the element on the HTML page with a class of cat-container.
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 Submission
 Create a repository in your GitHub account called your-name-js1-ma1, for example mary-smith-js1-ma1, and make sure it's public.
 All your answers can go in script.js.
